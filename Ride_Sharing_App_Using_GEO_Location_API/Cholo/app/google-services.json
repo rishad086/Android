@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328895940303",
+    "project_id": "cholo-15056",
+    "storage_bucket": "cholo-15056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328895940303:android:c073636ac4468ac3d059ba",
+        "android_client_info": {
+          "package_name": "com.example.cholo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328895940303-vdn8qg62pddsj9tus42ehlehmsd27qs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD-77VnEciEAifb-tFR4Utjy280PDnUPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328895940303-vdn8qg62pddsj9tus42ehlehmsd27qs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
